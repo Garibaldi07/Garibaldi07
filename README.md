@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Garibaldi07
+- 👀 I’m interested in blockchain project
+- 🌱 I’m currently learning data science and python language, i have just started, and i need support in my own project.
+- 💞️ I’m looking to collaborate on people or data scientist that know python and can help me in developing my personal blockchain, in open source methods.
+- 📫 Please, don't esitate to contact me at: codingpython07@gmail.com
